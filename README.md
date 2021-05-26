@@ -1,13 +1,11 @@
 <h1 align="center"> Hey, I'm Ishita ☁</h1>
 <h3 align="center">Behind every Cloud is Another Cloud ;)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishitaojha" alt="ishitaojha" /></a> </p>
-
 - 🔭 I’m currently working on **AWS Cloud Computing**
 
-- 🌱🎇💬 I’m currently learning **seriously EVERYTHING !🌪🌥**
+- 🌱 I’m currently learning **seriously EVERYTHING !🌪🌥**
 
-- 📫 Mail me at  **ishita0jha29@gmail.com**
+- 📫 Mail me at **ishita0jha29@gmail.com**
 
 - 👀🍕Verified fact **I am actually weird**
 
@@ -17,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&locale=en" alt="ishitaojha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&" alt="ishitaojha" /></p>
