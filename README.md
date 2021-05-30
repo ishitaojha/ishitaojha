@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Ishita ☁</h1>
-<h3 align="center">Behind every Cloud is Another Cloud ;)</h3>
+<h3 align="center">Behind every Cloud is Another Cloud ;) </h3>
 
 - 🔭 I’m currently working on **AWS Cloud Computing**
 
