@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS Cloud Computing**
 
-- 🌱 I’m currently learning **seriously EVERYTHING !🌪🔪**
+- 🌱 I’m currently learning seriously **EVERYTHING**
 
 - 📫 Mail me at **ishita0jha29@gmail.com**
 
