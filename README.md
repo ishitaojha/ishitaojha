@@ -8,6 +8,7 @@
 - 📫 Mail me at **ishita0jha29@gmail.com**
 
 - 👀🍕Verified fact **I am actually weird**
+- <p> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=tokyonight" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
