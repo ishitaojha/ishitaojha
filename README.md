@@ -1,4 +1,4 @@
-Hey there!
+<h4>Hey there!</h4>
  
  📫 Mail me at **ishita0jha29@gmail.com**
   <p> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=synthwave" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" alt="ishitaojha" /></p>
