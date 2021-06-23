@@ -1,7 +1,10 @@
 <h4>Hey there!</h4>
  
  📫 Mail me at **ishita0jha29@gmail.com**
-  <p> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=synthwave" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" alt="ishitaojha" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=synthwave" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
