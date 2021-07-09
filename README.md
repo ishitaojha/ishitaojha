@@ -1,6 +1,6 @@
 <h4>Hey there!</h4>
 
-![alt text](https://github.com/ishitaojha/ishitaojha/blob/2a9dd1f230607c8504764c6b65b00a0935e3114d/Red%20Yellow%20and%20White%20Restaurant%20Back%20to%20Business%20Landscape%20Banner.gif)
+![alt text](https://github.com/ishitaojha/ishitaojha/blob/d361ea5351ebfcea2af1d752c2a9bdd3f4a8f5ad/Red%20Yellow%20and%20White%20Restaurant%20Back%20to%20Business%20Landscape%20Banner%20(3).gif)
 
  📫 Mail me at **ishita0jha29@gmail.com**
 <p align="center">
