@@ -1,6 +1,7 @@
 <h4>Hey there!</h4>
-<h5> STAR MY REPOSITORIES TO PREVENT BAD LUCK FOR THE REST OF YOUR LIFE ❤ </h5>
- 
+
+![alt text](https://github.com/ishitaojha/ishitaojha/blob/2a9dd1f230607c8504764c6b65b00a0935e3114d/Red%20Yellow%20and%20White%20Restaurant%20Back%20to%20Business%20Landscape%20Banner.gif)
+
  📫 Mail me at **ishita0jha29@gmail.com**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" />
