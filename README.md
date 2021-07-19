@@ -1,6 +1,6 @@
 <h4>Hey there!</h4>
 
-![alt text](https://github.com/ishitaojha/ishitaojha/blob/7c70d8a220b7993a7a91f401cad7ca399bb595f9/Red%20Yellow%20and%20White%20Restaurant%20Back%20to%20Business%20Landscape%20Banner%20(4).gif)
+
  📫 Mail me at **ishita0jha29@gmail.com**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" />
