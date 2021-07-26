@@ -2,6 +2,8 @@
 
 
  📫 Mail me at **ishita0jha29@gmail.com**
+ ![Ishita Ojha (3)](https://user-images.githubusercontent.com/59393136/127027303-b5dacda2-c09b-4f57-8545-0a6e0b8aeb5d.jpg)
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=synthwave" />
