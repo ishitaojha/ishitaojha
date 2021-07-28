@@ -1,4 +1,4 @@
-<h4>Hey there!</h4>
+<h4>Hey there!</h4> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px">
 
 
  ![Ishita Ojha (3)](https://user-images.githubusercontent.com/59393136/127027303-b5dacda2-c09b-4f57-8545-0a6e0b8aeb5d.jpg)
