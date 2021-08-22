@@ -1,7 +1,9 @@
 <h4>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h4>
 
 
- ![Ishita Ojha (3)](https://user-images.githubusercontent.com/59393136/127027303-b5dacda2-c09b-4f57-8545-0a6e0b8aeb5d.jpg)
+
+ ![Blue Ocean Photo Summer Instagram Post](https://user-images.githubusercontent.com/59393136/130364131-b2e287e5-3cb9-40a9-955c-60c5795bd173.jpg)
+
 
 <h3>Stats</h3><hr>
 <p align="center">
