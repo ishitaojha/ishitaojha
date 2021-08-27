@@ -4,7 +4,15 @@
 
  ![Blue Ocean Photo Summer Instagram Post](https://user-images.githubusercontent.com/59393136/130364131-b2e287e5-3cb9-40a9-955c-60c5795bd173.jpg)
 
-
+ <div>
+ <p align="center">
+ 
+  <a href="https://github.com/ishitaojha">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaojha&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+   </p>
+</div>
+ 
 <h3>Stats</h3><hr>
 <p align="center">
  
