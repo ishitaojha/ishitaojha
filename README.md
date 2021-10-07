@@ -1,8 +1,8 @@
-<h4>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h4>
+<h2>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h2>
 
 
 
- ![Blue Ocean Photo Summer Instagram Post](https://user-images.githubusercontent.com/59393136/130364131-b2e287e5-3cb9-40a9-955c-60c5795bd173.jpg)
+![Blue Ocean Photo Summer Instagram Post (1)](https://user-images.githubusercontent.com/59393136/136331971-376d72df-ca13-4dc6-935b-b50865bbb53c.jpg)
 
  <div>
  <p align="center">
