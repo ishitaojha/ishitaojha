@@ -1,6 +1,6 @@
 <h2>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h2>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaojha&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaojha" /> </p>
 
 ![Blue Ocean Photo Summer Instagram Post (1)](https://user-images.githubusercontent.com/59393136/136331971-376d72df-ca13-4dc6-935b-b50865bbb53c.jpg)
 
