@@ -13,14 +13,6 @@
    </p>
 </div>
  
-<h3>Stats</h3><hr>
-<p align="center">
- 
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=synthwave" />
- 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaojha&theme=synthwave" />
-
 
 </p>
 
