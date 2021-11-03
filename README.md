@@ -1,5 +1,5 @@
 <h2>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaojha&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaojha" /> </p>
+
 <p align="center">
  
 ![diwali1](https://user-images.githubusercontent.com/59393136/139662954-ce2d520b-2bee-4651-b408-63ba635d6343.gif)
