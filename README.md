@@ -2,7 +2,8 @@
 
 <p align="center">
  
-![diwali1](https://user-images.githubusercontent.com/59393136/139662954-ce2d520b-2bee-4651-b408-63ba635d6343.gif)
+![ted](https://user-images.githubusercontent.com/59393136/140699229-7afe3941-470f-4cf2-8e99-18169150a8bd.jpg)
+
 
 </p>
 
