@@ -2,8 +2,10 @@
 
 <p align="center">
  
-![ted](https://user-images.githubusercontent.com/59393136/140699229-7afe3941-470f-4cf2-8e99-18169150a8bd.jpg)
+ ![WhatsApp Image 2021-11-08 at 10 41 04 PM](https://user-images.githubusercontent.com/59393136/142041832-6f67957b-e0d3-4843-a923-ba617c2fc71d.jpeg)
 
+
+ 
 
 </p>
 
