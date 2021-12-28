@@ -2,6 +2,11 @@
 
 <p align="center">
  
+ 
+📫 How to reach me **ishita0jha29@gmail.com**
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+ 
  ![WhatsApp Image 2021-11-08 at 10 41 04 PM](https://user-images.githubusercontent.com/59393136/142041832-6f67957b-e0d3-4843-a923-ba617c2fc71d.jpeg)
 
 
@@ -30,6 +35,10 @@
 
 
 
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
