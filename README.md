@@ -7,9 +7,9 @@
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
  
- ![WhatsApp Image 2021-11-08 at 10 41 04 PM](https://user-images.githubusercontent.com/59393136/142041832-6f67957b-e0d3-4843-a923-ba617c2fc71d.jpeg)
-
-
+ <br>
+ 
+ ![WhatsApp Image 2022-03-05 at 5 31 15 PM](https://user-images.githubusercontent.com/59393136/156882098-610d26c3-9623-4344-811e-30074c27e417.jpeg)
  
 
 </p>
