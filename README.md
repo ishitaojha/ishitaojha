@@ -19,8 +19,8 @@
 
  <p align="left">
   <a href="https://github.com/ishitaojha">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,420000,120042&theme=dark">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaojha&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaojha&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
    </p> 
  <br>
  
