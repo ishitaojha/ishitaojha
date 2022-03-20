@@ -4,8 +4,9 @@
 <h3>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="44px">
 
  
+<br>
  <br>
-<img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </h3>
+ 
  
  
  <img align="center" src="https://user-images.githubusercontent.com/59393136/157180311-3f6c13a3-1968-4fd9-883e-e22859e9feaa.jpeg" width="800 " height="500" />
