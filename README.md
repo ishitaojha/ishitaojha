@@ -1,7 +1,7 @@
 
 <p align="center">
  
-<h3>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="44px">
+<h3>Hello , I this is my personal space for Projects/Hackathon Submissions <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="44px">
 
  
 <br>
@@ -13,17 +13,23 @@
 
 
  
-<a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="150 " height="150" /></a>
+<a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 
 </p>
 <br>
 <div>
 
+ 
+ 
+ 
+ 
+ 
  <p align="left">
   <a href="https://github.com/ishitaojha">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,420000,120042&theme=dark">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitaojha&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=merko">
+
    </p> 
  <br>
   </div>
