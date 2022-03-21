@@ -5,10 +5,8 @@
 <hr>
  
  
- <img align="center" src="https://user-images.githubusercontent.com/59393136/157180311-3f6c13a3-1968-4fd9-883e-e22859e9feaa.jpeg" width="800 " height="500" />
+ 
 
-
- <hr>
  
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
