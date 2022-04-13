@@ -2,10 +2,14 @@
 <p align="center"
 <h3>Hello , I use this is space for Projects and Hackathon Submissions <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="44px">
 <hr>
- 
+<p align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/59393136/163153011-953ffafb-2a30-4834-b108-174f1fbab266.jpeg" width="1100 " height="650"/>)
+
+ </p>
 
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 </p>
 <br>
@@ -15,10 +19,12 @@
  
  
  
- <p align="left">
+ <p align="center">
   <a href="https://github.com/ishitaojha">
    
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=merko">
+   
+   
 
    </p> 
  <br>
@@ -32,7 +38,7 @@
  <hr>
 Contribution Until Now 
 
-| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="800px" height="130px" /> |
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="1100px" height="150px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
