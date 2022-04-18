@@ -2,9 +2,6 @@
 <p align="center"
 <h3>Hello , I use this is space for Projects and Hackathon Submissions <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="44px">
 <hr>
-<p align="center">
-
-<img align="center" src="https://user-images.githubusercontent.com/59393136/163153011-953ffafb-2a30-4834-b108-174f1fbab266.jpeg" width="1100 " height="650"/>)
 
  </p>
 
