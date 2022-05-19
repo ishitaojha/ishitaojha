@@ -5,8 +5,6 @@
 
  </p>
 
-<a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="160 " height="160" /></a>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="160 " height="160" /></a>
 
 </p>
 <br>
