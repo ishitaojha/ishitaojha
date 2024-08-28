@@ -1,30 +1,6 @@
 
 <p align="center"
-<h3>Hello , I use this is space for my Projects and Hackathon Submissions
-<hr>
 
- </p>
-
-
-</p>
-<br>
-<div>
-
- 
- 
- 
- 
- <p align="center">
-  <a href="https://github.com/ishitaojha">
-   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ishitaojha&show_icons=true&theme=merko">
-   
-   
-
-   </p> 
- <br>
-  </div>
- 
  <hr>
 <h3 align="center">Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="40" /></h3></p><hr>
 <br>
